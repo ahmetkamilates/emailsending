@@ -2,4 +2,4 @@
 
 <h1>Interview</h1>
 
-![](images.video.gif)
+![](images/video.gif)
